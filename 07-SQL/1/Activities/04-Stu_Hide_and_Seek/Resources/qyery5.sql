@@ -1,0 +1,1 @@
+select * from wordassociation where source='BC'

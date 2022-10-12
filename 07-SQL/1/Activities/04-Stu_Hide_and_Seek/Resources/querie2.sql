@@ -1,0 +1,1 @@
+select * from wordassociation where author >0 and author<=10;

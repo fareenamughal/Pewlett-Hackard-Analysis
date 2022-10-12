@@ -1,0 +1,1 @@
+select * from wordassociation where word1='pie' or word2='pie'
