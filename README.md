@@ -1,2 +1,65 @@
 # Pewlett-Hackard-Analysis
- Module 7: Employee Database with SQL
+## Overview of Pewlett-Hackard-Analysis
+---
+
+The overview of this analysis is to enable Pewlett-Hackard to plan and prepare for the upcoming retirements. To be specific, the new analysis sought to findout the number of current employees that will be retiring analysed by their title. In addition to this the analysis aims to find out the number of employees presently employed and grouped based on thier title at the start of their employment, to ensure that duplicate or multiple titles as a result of e.g. promotions are eliminated to provide a more meaningful analysis of the retirements per department or title. The analysis also aims to provide insights about the current employees who would be eligible for mentorship which would help with the succession planning. 
+
+---
+
+## Results
+There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+The results of the analysis are as follows:
+A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+   1. ![PyBer Summary Dataframe](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_df.PNG)
+3.  ![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
+
+The Retirement Titles table is exported as retirement_titles.csv.
+2. Unique Titles table that contains the employee number, first and last name, and most recent title.
+The Unique Titles table is exported as unique_titles.csv. 
+3. Retiring Titles table that contains the number of titles filled by employees who are retiring
+The Retiring Titles table is exported as retiring_titles.csv.
+
+
+
+4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
+
+
+
+
+## Summary
+
+
+
+Summary:
+
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
+
+
+
+
+
+
+
+
+Module 7: Employee Database with SQL
+Deliverable 3 Requirements
+Structure, Organization, and Formatting (6 points)
+The written analysis has the following structure, organization, and formatting:
+
+There is a title, and there are multiple sections. (2 pt)
+Each section has a heading and subheading. (2 pt)
+Links to images are working and displayed correctly. (2 pt)
+Analysis (14 points)
+The written analysis has the following:
+
+Overview of the analysis:
+
+The purpose of the new analysis is well defined. (3 pt)
+Results:
+
+There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+Summary:
+
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
