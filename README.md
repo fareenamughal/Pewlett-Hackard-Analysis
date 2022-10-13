@@ -2,11 +2,13 @@
 ## Overview of Pewlett-Hackard-Analysis
 ---
 
-The overview of this analysis was to enable Pewlett-Hackard to plan and prepare for the upcoming retirements. To be specific, the new analysis sought to findout the number of current employees that will be retiring analysed by their title. In addition to this the analysis aimed to find out the number of employees presently employed and grouped based on thier title at the start of their employment, to ensure that duplicate or multiple titles as a result of e.g. promotions were eliminated to provide a more meaningful analysis of the retirements per department or title. The analysis also aimed to provide insights about the current employees who would be eligible for mentorship which would help with the succession planning. 
+The overview of this analysis is to enable Pewlett-Hackard to plan and prepare for the upcoming retirements. To be specific, the new analysis sought to findout the number of current employees that will be retiring analysed by their title. In addition to this the analysis aims to find out the number of employees presently employed and grouped based on thier title at the start of their employment, to ensure that duplicate or multiple titles as a result of e.g. promotions are eliminated to provide a more meaningful analysis of the retirements per department or title. The analysis also aims to provide insights about the current employees who would be eligible for mentorship which would help with the succession planning. 
 
 ---
 
 ## Results
+There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+The results of the analysis are as follows:
 
 Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
 The Retirement Titles table is exported as retirement_titles.csv.
