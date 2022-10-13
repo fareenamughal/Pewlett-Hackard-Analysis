@@ -46,18 +46,21 @@ C. Retiring Titles table that contains the number of titles filled by employees 
   
      ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/852a257caa3a769e8800763f500b8b5cca568256/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)     
      
-   3. Retiring titles graph
+  3. Retiring titles graph
    
       ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/176b4efaf7259b060b1343121aec7e15b40b7b09/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_graph.png)
       
    The retiring titles table provide a much more meaning full analysis by summarizing the number of employees retiring by title after eliminating any duplicate records    and after factoring in the employees who have already left PH. As can be seen in the graph as, there is a problem in so far as PH does not have a good succession      plan. Approx.26K Senior engineers and approx. 25K Senior staff are approaching retirement age. PH will need to train and or replace these staff by recruitment, or      come up with another plan such as outsourcing some functions. This will need further analysis and discussion.   
       
-4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
-The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
+D. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+  
+  1. The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
+      
+      https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/mentorship_eligibilty.csv
+      
+  2. The Mentorship Eligibility table.
 
-
-
-
+       ![Mentorship Eligibility_tbl] (https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/7e4671956572e0f6b38f89d6b37f68b4ebf72ea8/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Mentorship_eligibility_tbl_extract.PNG)
 ## Summary
 
 
