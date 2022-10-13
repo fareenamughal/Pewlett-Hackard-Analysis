@@ -10,8 +10,14 @@ The overview of this analysis is to enable Pewlett-Hackard to plan and prepare f
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 The results of the analysis are as follows:
 A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
-   1. ![PyBer Summary Dataframe](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_df.PNG)
-3.  ![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
+   1.![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
+
+
+
+
+3. 
+
+
 
 The Retirement Titles table is exported as retirement_titles.csv.
 2. Unique Titles table that contains the employee number, first and last name, and most recent title.
