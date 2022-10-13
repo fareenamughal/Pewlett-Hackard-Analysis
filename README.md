@@ -10,20 +10,25 @@ The overview of this analysis is to enable Pewlett-Hackard to plan and prepare f
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 The results of the analysis are as follows:
 A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
-   1.![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
+  1. The Retirement Titles table - exported as retirement_titles.csv
+     https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv
+  2.![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
 
 
 
 
-3. 
+
 
 
 
 The Retirement Titles table is exported as retirement_titles.csv.
-2. Unique Titles table that contains the employee number, first and last name, and most recent title.
-The Unique Titles table is exported as unique_titles.csv. 
-3. Retiring Titles table that contains the number of titles filled by employees who are retiring
-The Retiring Titles table is exported as retiring_titles.csv.
+B. Unique Titles table that contains the employee number, first and last name, and most recent title.
+  1.The Unique Titles table - exported as unique_titles.csv. 
+
+
+
+C. Retiring Titles table that contains the number of titles filled by employees who are retiring
+  1.The Retiring Titles table is exported as retiring_titles.csv.
 
 
 
