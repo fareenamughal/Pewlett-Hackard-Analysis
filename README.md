@@ -25,9 +25,16 @@ A. Retirement Titles table for employees who are born between January 1, 1952 an
 
 B. Unique Titles table that contains the employee number, first and last name, and most recent title.
   
-  1.The Unique Titles table - exported as unique_titles.csv. 
+  1. The Unique Titles table - exported as unique_titles.csv. 
     
      https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/unique_titles.csv
+
+  2. Unique_titles table extract
+     
+     https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG
+     
+     The unique titles table 
+
 
 
 C. Retiring Titles table that contains the number of titles filled by employees who are retiring
