@@ -40,7 +40,10 @@ C. Retiring Titles table that contains the number of titles filled by employees 
   
   1. The Retiring Titles table is exported as retiring_titles.csv.
 
-
+  2. Retiring titles table
+  
+     ![Unique_titles_tbl] (https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/2f0009b196c94362cdc0962adc3fad5c84b0c1f6/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)
+      
 
 4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
