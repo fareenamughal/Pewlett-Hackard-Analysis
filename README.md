@@ -1,4 +1,5 @@
 # Pewlett-Hackard-Analysis
+---
 ## Overview of Pewlett-Hackard-Analysis
 ---
 
@@ -7,6 +8,8 @@ The overview of this analysis is to enable Pewlett-Hackard to plan and prepare f
 ---
 
 ## Results
+
+---
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 The results of the analysis are as follows:
 A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
@@ -65,9 +68,11 @@ D. Mentorship Eligibility table for current employees who were born between Janu
    The mentorship eligibility table provides useful information to enable PH identify staff for mentorship and career grwoth. This is likely to be helpful in filling      some of the vacancies arising due to retirements. It is worth noting that there are only 1549 employees who are eligible for mentorship, compared to the apprx.72K 
    retirements.
     
-       
+---      
        
 ## Summary
+
+---
 
 To summarize, the analysis provides a rather gloomy outlook which may have resulted from poor succession planning amoungst other things. Further analysis would be required to determine which staff will actually retire as some may decide to work one or two more years which would work well for PH. In otherwords, analysis for phased or delayed retirement should be done. Furthermore, rather than lumping all the staff who were borh in 1952 to 1955, it would be helpful to know how many are retiring in 1 year, 2 years and 3 years. In otherwords, spread the analysis for each year individually i.e. 1952 data compared to 1953, 1954 and 1955. This will give a better picture of how soon and how many retirements are likely to happen. A further analysis to identify staff who can be promoted to higher positions. The performance record, absence records etc would help in identifying staff that can promoted or easily fill some of potential vacancies.
 
