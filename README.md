@@ -39,6 +39,8 @@ B. Unique Titles table that contains the employee number, first and last name, a
 C. Retiring Titles table that contains the number of titles filled by employees who are retiring
   
   1. The Retiring Titles table is exported as retiring_titles.csv.
+    
+      https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/61e94e80dbeb64f41ba6c04d4c8bad9e7cf4523e/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retiring_titles.csv
 
   2. Retiring titles table
   
@@ -47,6 +49,9 @@ C. Retiring Titles table that contains the number of titles filled by employees 
    3. Retiring titles graph
    
       ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/176b4efaf7259b060b1343121aec7e15b40b7b09/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_graph.png)
+      
+    The retiring titles   
+      
 
 4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
