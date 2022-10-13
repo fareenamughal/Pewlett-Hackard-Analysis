@@ -42,7 +42,11 @@ C. Retiring Titles table that contains the number of titles filled by employees 
 
   2. Retiring titles table
   
-     ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/852a257caa3a769e8800763f500b8b5cca568256/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)      
+     ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/852a257caa3a769e8800763f500b8b5cca568256/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)     
+     
+   3. Retiring titles graph
+   
+      ![Retiring_titles_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/176b4efaf7259b060b1343121aec7e15b40b7b09/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_graph.png)
 
 4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
