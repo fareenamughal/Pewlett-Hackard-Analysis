@@ -30,7 +30,7 @@ B. Unique Titles table that contains the employee number, first and last name, a
 
   2. Unique_titles table extract
      
-      ![Unique_titles_tbl_extract](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG)
+      ![Unique_titles_tbl_extract]([https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG]
      
      
    The unique titles table is similar to the Retirement titles table with further filtering to eliminate the duplicated records due to e.g. promotions and records for    staff who have already left. The analysis indicates that there are 72,458 records or employees who are nearing retirement, a difference of 61,318 records as            compared to the retirement titles table. This signifies how important it is to have accurate analysis.  
@@ -42,7 +42,7 @@ C. Retiring Titles table that contains the number of titles filled by employees 
 
   2. Retiring titles table
   
-     ![Unique_titles_tbl] (https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/2f0009b196c94362cdc0962adc3fad5c84b0c1f6/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)
+     ![Retiring_titles_tbl] (https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles_tbl.PNG)
       
 
 4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
