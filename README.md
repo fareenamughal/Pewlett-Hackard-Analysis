@@ -60,8 +60,12 @@ D. Mentorship Eligibility table for current employees who were born between Janu
       
   2. The Mentorship Eligibility table.
 
-       ![Mentorship Eligibility_tbl] (https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/7e4671956572e0f6b38f89d6b37f68b4ebf72ea8/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Mentorship_eligibility_tbl_extract.PNG)
-## Summary
+       ![Mentorship Eligibility_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/7e4671956572e0f6b38f89d6b37f68b4ebf72ea8/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Mentorship_eligibility_tbl_extract.PNG) 
+       
+       
+       
+       
+       ## Summary
 
 
 
