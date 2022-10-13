@@ -1,5 +1,45 @@
 # Pewlett-Hackard-Analysis
- Module 7: Employee Database with SQL
+## Overview of Pewlett-Hackard-Analysis
+---
+
+The overview of this analysis was to enable Pewlett-Hackard to plan and prepare for the upcoming retirements. To be specific, the new analysis sought to findout the number of current employees that will be retiring analysed by their title. In addition to this the analysis aimed to find out the number of employees presently employed and grouped based on thier title at the start of their employment, to ensure that duplicate or multiple titles as a result of e.g. promotions were eliminated to provide a more meaningful analysis of the retirements per department or title. The analysis also aimed to provide insights about the current employees who would be eligible for mentorship which would help with the succession planning. 
+
+---
+
+## Results
+
+Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+The Retirement Titles table is exported as retirement_titles.csv.
+Unique Titles table that contains the employee number, first and last name, and most recent title.
+The Unique Titles table is exported as unique_titles.csv. 
+Retiring Titles table that contains the number of titles filled by employees who are retiring
+The Retiring Titles table is exported as retiring_titles.csv.
+
+
+
+Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
+
+
+
+
+## Summary
+
+
+
+Summary:
+
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
+
+
+
+
+
+
+
+
+Module 7: Employee Database with SQL
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (6 points)
 The written analysis has the following structure, organization, and formatting:
