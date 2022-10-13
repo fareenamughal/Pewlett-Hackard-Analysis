@@ -61,17 +61,15 @@ D. Mentorship Eligibility table for current employees who were born between Janu
   2. The Mentorship Eligibility table.
 
        ![Mentorship Eligibility_tbl](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/7e4671956572e0f6b38f89d6b37f68b4ebf72ea8/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Mentorship_eligibility_tbl_extract.PNG) 
+   
+   The mentorship eligibility table provides useful information to enable PH identify staff for mentorship and career grwoth. This is likely to be helpful in filling      some of the vacancies arising due to retirements. It is worth noting that there are only 1549 employees who are eligible for mentorship, compared to the apprx.72K 
+   retirements.
+    
        
        
-       
-       
-       ## Summary
+## Summary
 
-
-
-Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+To summarize, the analysis provides a rather gloomy outlook which may have resulted from poor succession planning amoungst other things. Further analysis would be required to determine which staff will actually retire as some may decide to work one or two more years which would work well for PH. In otherwords, analysis for phased or delayed retirement should be done. Furthermore, rather than lumping all the staff who were borh in 1952 to 1955, it would be helpful to know how many are retiring in 1 year, 2 years and 3 years. In otherwords, spread the analysis for each year individually i.e. 1952 data compared to 1953, 1954 and 1955. This will give a better picture of how soon and how many retirements are likely to happen. A further analysis to identify staff who can be promoted to higher positions. The performance record, absence records etc would help in identifying staff that can promoted or easily fill some of potential vacancies.
 
 
 
@@ -79,25 +77,3 @@ The summary addresses the two questions and contains two additional queries or t
 
 
 
-
-
-Module 7: Employee Database with SQL
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
-Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
