@@ -31,12 +31,14 @@ B. Unique Titles table that contains the employee number, first and last name, a
   2. Unique_titles table extract
      
       ![Unique_titles_tbl_extract](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG)
-     The unique titles table 
-
+     
+     
+   The unique titles table is similar to the Retirement titles table with further filtering to eliminate the duplicated records due to e.g. promotions and records for    staff who have already left. The analysis indicates that there are 72,458 records or employees who are nearing retirement, a difference of 61,318 records as            compared to the retirement titles table. This signifies how important it is to have accurate analysis.  
 
 
 C. Retiring Titles table that contains the number of titles filled by employees who are retiring
-  1.The Retiring Titles table is exported as retiring_titles.csv.
+  
+  1. The Retiring Titles table is exported as retiring_titles.csv.
 
 
 
