@@ -17,7 +17,7 @@ A. Retirement Titles table for employees who are born between January 1, 1952 an
 
   2. Retirement_titles table extract
 
-     ![Retirement_titles_tbl_extract](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG)
+     ![Retirement_titles_tbl_extract](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/6d69c05ce9c706aa7208f264d8ea372d8ea86587/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Retirement_titles_tbl_extract.PNG)
   
    The retirement titles table lists down all the titles in Pewlett Hackard (PH). The table indicates that there are 133,776 records or staff close to retirement. This    table, however, fails to account for the employees who have already left Pewlett or the duplicated records as a result of promotions or transfers. Further analysis    should be carried out to eliminate duplication of records or titles and redundand records or records of employees who have already left PH.
 
