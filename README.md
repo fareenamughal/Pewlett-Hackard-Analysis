@@ -31,7 +31,7 @@ B. Unique Titles table that contains the employee number, first and last name, a
 
   2. Unique_titles table extract
      
-     https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG
+     https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/be3d45887468f2223d892cec4e0d1ff3e6924030/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Unique_titles_tbl_extract.PNG
      
      The unique titles table 
 
