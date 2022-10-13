@@ -9,17 +9,19 @@ The overview of this analysis is to enable Pewlett-Hackard to plan and prepare f
 ## Results
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 The results of the analysis are as follows:
+A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
+   1. ![PyBer Summary Dataframe](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_df.PNG)
+3.  ![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
 
-Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
 The Retirement Titles table is exported as retirement_titles.csv.
-Unique Titles table that contains the employee number, first and last name, and most recent title.
+2. Unique Titles table that contains the employee number, first and last name, and most recent title.
 The Unique Titles table is exported as unique_titles.csv. 
-Retiring Titles table that contains the number of titles filled by employees who are retiring
+3. Retiring Titles table that contains the number of titles filled by employees who are retiring
 The Retiring Titles table is exported as retiring_titles.csv.
 
 
 
-Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+4. Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.
 
 
