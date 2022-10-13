@@ -11,7 +11,7 @@ There is a bulleted list with four major points from the two analysis deliverabl
 The results of the analysis are as follows:
 A. Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.
   1. The Retirement Titles table - exported as retirement_titles.csv
-     [Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles.csv](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/615cd04da28b7da500f5c9d4975cd7f1a0103f87/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
+ ---[Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles.csv](https://github.com/fareenamughal/Pewlett-Hackard-Analysis/blob/615cd04da28b7da500f5c9d4975cd7f1a0103f87/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
   
   2.![Retirement_titles_tbl_extract](https://user-images.githubusercontent.com/112118706/195525122-352a75f5-95d7-43f6-b7cd-054bca66379a.PNG)
 
